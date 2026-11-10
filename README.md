@@ -4,6 +4,8 @@
 
 Peach Cat is a floating cat prop for Warudo, inspired by the motion of the character in Grok. It is an independent project.
 
+![Peach Cat animation preview](media/peach-cat.gif)
+
 ## What it does
 
 - Reacts to ARKit52 facial tracking with smiling, sad, and angry eyes. A sustained smile makes it bounce.
